@@ -1,5 +1,5 @@
 <a href="https://igornitqa.github.io/">
-  <img src="assets/qa-automation-cover.png" alt="QA Automation — Python, UI и API" width="100%">
+  <img src="assets/qa-engineer-cover.png" alt="Игорь Ниточкин — QA Engineer: проверки UI, API и данных" width="100%">
 </a>
 
 # Игорь Ниточкин
