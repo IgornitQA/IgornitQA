@@ -1,14 +1,16 @@
 <a href="https://igornitqa.github.io/">
-  <img src="assets/qa-automation-banner.webp" alt="Игорь Ниточкин — QA Automation Engineer: проверки UI → API → DB" width="100%">
+  <img src="assets/qa-automation-banner.webp" alt="Игорь Ниточкин — QA Engineer: проверки UI → API → DB" width="100%">
 </a>
 
-**QA Automation Engineer · Python · финтех**
+**Инженер по тестированию (QA Engineer) · финтех · Python**
 
-Проверяю пользовательские сценарии от интерфейса до состояния данных. Пишу UI- и API-автотесты, разбираю требования и ищу проверяемое объяснение сбоев.
+Тестирую Web, Android, REST API и бизнес-критичные финансовые интеграции. Локализую дефекты по HTTP-запросам, SQL и логам. Развиваю UI/API-автоматизацию на Python.
 
 **[Портфолио и опыт ↗](https://igornitqa.github.io/)** · **[Резюме PDF ↓](https://igornitqa.github.io/resume.pdf)** · **[Telegram](https://t.me/i_nitochkin)**
 
 ## Что делаю
+
+- **Финтех:** функциональное, интеграционное и регрессионное тестирование выплат, регистрации, KYC и налоговых сценариев; участие в проверках готовности к внешним аудитам.
 
 - **UI и API:** регистрация, авторизация и приглашения; pytest, Playwright, фикстуры и подготовка тестовых данных.
 - **Контракты и данные:** Pydantic-модели, SQL и независимые проверки постусловий в БД.
